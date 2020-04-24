@@ -2,6 +2,7 @@
 Extracting information from images
 
 Read text from image with one line of python code using
+
       -> OpenCV (Open source Computer Vision library)
       -> PyTesseract
 
